@@ -9,13 +9,13 @@ authors = [
 license = "MIT"
 description = "(口利き) HTML tree manipulation library"
 repository = "https://github.com/brave/kuchikiki"
-edition = "2018"
+edition = "2021"
 
 [lib]
 name = "kuchikiki"
 
 [dependencies]
-cssparser = "0.27"
+cssparser = "0.27.0"
 html5ever = "0.27.0"
 selectors = "0.22"
 indexmap = "2.2.6"
