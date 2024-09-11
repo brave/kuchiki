@@ -16,7 +16,7 @@ name = "kuchikiki"
 
 [dependencies]
 cssparser = "0.27"
-html5ever = "0.27.0"
+html5ever = "0.29.0"
 selectors = "0.22"
 indexmap = "2.2.6"
 
